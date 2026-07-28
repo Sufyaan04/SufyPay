@@ -21,8 +21,6 @@ class _SplashScreenState
       const Duration(seconds: 2),
           () {
 
-        // Tomorrow:
-        // Navigate to AuthGate
       },
     );
   }
